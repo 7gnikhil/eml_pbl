@@ -12,7 +12,7 @@ st.set_page_config(
 
 # --- Backend API URL ---
 # This is the address where your Flask backend (app.py) is running.
-BACKEND_URL = "http://127.0.0.1:5000"
+BACKEND_URL = "https://bmi-backend.onrender.com/predict"
 
 # --- UI Components ---
 st.title('🧠 BMI Prediction Engine')
