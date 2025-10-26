@@ -3,4 +3,8 @@ pandas
 numpy
 requests
 flask
-flask_cors
+flask-cors
+joblib
+tensorflow
+gunicorn
+pillow
